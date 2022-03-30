@@ -12,4 +12,7 @@
 * Контент сообщения может содержать в себе HTML разметку
 * Адекватно рендерится всеми почтовыми клиентами, в том числе web и мобильными
 
+## ScreenShots
+![Image](https://gitflic.ru/project//project/netfoxzx/html-message/blob/raw?file=images%2FOk.png&;commit=810e18c5346a5e2a648b6515db76d54e0de690e5)
+
 
